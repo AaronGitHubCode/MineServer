@@ -1,0 +1,19 @@
+#!/bin/bash
+
+define world=$1
+define heap=$2
+
+check_jre() {
+    if [ ! -f /usr/lib/jdk* ]; then
+
+    fi
+}
+
+init() {
+    java -jar  
+}
+
+if [ id($USERNAME) -eq 0 ]; then
+    check_jre
+    init
+fi

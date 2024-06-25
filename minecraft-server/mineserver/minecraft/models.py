@@ -8,7 +8,7 @@ class World(models.Model):
 
     players = models.IntegerField(name='current_players')
     
-    world_image = models.ImageField(name='word_image')
+    image = models.ImageField(name='world_image')
 
 
 class Player(models.Model):
