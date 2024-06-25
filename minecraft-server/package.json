@@ -1,0 +1,21 @@
+{
+  "name": "ang-mineserver",
+  "version": "0.0.1",
+  "description": "Página web para amigos.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronGitHubCode/MineServer.git"
+  },
+  "author": "AaronGitHubCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronGitHubCode/MineServer/issues"
+  },
+  "homepage": "https://github.com/AaronGitHubCode/MineServer#readme",
+  "dependencies": {
+    "angular": "^1.8.3"
+  }
+}
